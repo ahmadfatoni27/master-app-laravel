@@ -1,0 +1,332 @@
+.error {
+  background: blanchedalmond !important;
+  border: 1px #B82E24 solid !important;
+}
+.errors-info{
+  background: transparent;
+  border: none;
+  color: #B82E24;
+}
+.card-header.p10 {
+  padding-left: 0rem !important;
+}
+.card-title.m10 {
+  margin-left: -24px !important;
+}
+tr > .fbt {
+	padding-left: 0px !important;
+}
+.text-center.fbt {
+	padding-left: 0px;
+}
+.text-center.fbt {
+	padding-right: 0px;
+}
+.card-header.title-import {
+	margin-left: -25px;
+}
+.back.card-body.text-center {
+	background-color: #5A8DEE;
+	border-radius: 20px;
+}
+.margFilter{
+	margin-top: 20px; margin-bottom: -25px;
+}
+div.col-md-3.margFilter {
+	padding-left: 5px !important;
+	margin-right: -15px;
+	margin-top: 3px;
+	margin-bottom: 3px;
+}
+
+.modal-header.bg-dark{
+	background-color: #475F7B;
+}
+.btn.btn-icon.btn-outline-warning.mr-1.mb-1.snmp {
+	margin-right: -0.1% !important;
+}
+.col-md-12.col-12.text-right.snmp, .col-md-6.col-12.snmp {
+	padding-left: 5px !important;
+	padding-right: 5px !important;
+}
+/* feom aktivasi pelanggan */
+.modal-footer {
+	background-color: #5a8dee0d !important;
+	border-radius: 0 0 10px 10px !important;
+}
+.modal-body {
+	background-color: #5a8dee0d !important;
+}
+
+.btn.btn-primary.btn-icon.scroll-top.marg-right {
+	margin-right: 0px;
+}
+/*  border kode paket */
+button.btn.btn-outline.round.mr-1.mb-1.underline {
+	border-radius: 1px;
+	border-bottom: #475F7B 2px solid;
+}
+/* ------------------- */
+/* ---------------------------------------- */
+/* TOTAL BIAYA */
+/* input.form-control.totalbiaya[readonly] {
+  color: #5A8DEE !important;
+  background: rgba(90, 141, 238, 0.15) !important;
+  opacity: 1 ;
+  } */
+  /* ------------------------------------- */
+  /* map view */
+  .map { height:250px; width:250px; }
+  /* ---- */
+  /* margin top of proress */
+  .col-md-12.col-12.mgt-progress {
+  	margin-top: 20px;
+  }
+  /* colo for status proses pada table antrian survei */
+  i.btn.btn-link.warnings {
+  	color: orange !important;
+  }
+  i.btn.btn-link.primarys {
+  	color: #5A8DEE !important;
+  }
+  i.btn.btn-link.prosess,i.btn.btn-link.warnings, i.btn.btn-link.info, i.btn.btn-link.rimarys {
+  	padding: 0 0px !important;
+  }
+  /* -------------------------------------------- */
+  /*   button switch */
+  .control.custom-switch.custom-switch-success.mr-2.mb-1 {
+  	text-align: center;
+  }
+  /* ------------------------------------------- */
+  /* animasi loader */
+  .la-ball-fall {
+  	width: auto !important;
+  }
+  /* ---------------------- */
+  /*  data table */
+  .table td {
+  	padding: 3px 3px;
+  }
+  .btn.btn-icon {
+  	padding: 0.2rem 0.4rem !important;
+  }
+  button.btn.btn-icon.btn-info,button.btn.btn-icon.btn-success,button.btn.btn-icon.btn-primary,button.btn.btn-icon.btn-warning  {
+  	margin-right: -4%;
+  }
+  /* ------------------------- */
+  /* bag showData => modul antrian survei */
+  span.invoice-title.pb15 {
+  	padding-bottom: 15px !important;
+  }
+  /* ------------------------ */
+  /* style registrasi Pelanggan page */
+  ul#tabnavformBtm {
+  	border-bottom: none;
+  }
+  .nav.nav-tabs.btm .nav-item.current::after {
+  	content: none;
+  }
+  label[for='radio_111'] {
+  	padding-right: 30%;
+  }
+  .card-header.title1, .card-header.title2{
+  	padding-left: 0px;
+  }
+  .card-header.title2 {
+  	margin-top: 16px;
+  }
+  .col-md-12.col-12.plb, .col-md-12.col-12.plbt  {
+  	padding-left: 0px;
+  	padding-bottom: 8px;
+  }
+  .col-md-12.col-12.plbt  {
+  	padding-top: 8px;
+  }
+  /* ---------------------- */
+
+  .nav.nav-tabs .nav-item.current::after {
+  	border-bottom: 6px solid rgba(90, 141, 238, 0.5) !important;
+  }
+  .nav.nav-tabs {
+  	margin-bottom: 1rem;
+  	border-bottom-color: rgba(90, 141, 238, 0.5) !important;
+  }
+  .preloader {
+  	position: fixed;
+  	top: 0;
+  	left: 0;
+  	width: 100%;
+  	height: 100%;
+  	z-index: 9999;
+  	background-color: #191d5a80;
+  }
+  .preloader .loading {
+  	position: absolute;
+  	left: 50%;
+  	top: 50%;
+  	transform: translate(-50%,-50%);
+  	font: 14px arial;
+  }
+  .loading > p{
+  	color: #F7F7F7;
+  	letter-spacing: 1.5px;
+  	font-size: 14px;
+  }
+  .loading > img{
+  	padding-bottom: 5px;
+  	padding-left: 20px;
+  }
+  .content {
+  	z-index: 1 !important;
+  }
+  .card-body.p-20.animated.fadeIn.custom-card {
+  	padding-left: 0px !important;
+  }
+  .card-body.p-20.animated.fadeIn.custom-card {
+  	padding-top: 0px !important;
+  }
+  .col-md-2.pl,
+  .col-md-3.pl,
+  .col-md-4.pl,
+  .col-md-5.pl,
+  .col-md-6.pl,
+  .col-md-7.pl,
+  .col-md-8.pl,
+  .col-md-9.pl,
+  .col-md-10.pl,
+  .col-md-11.pl,
+  .col-md-12.pl { padding-left: 7px; }
+  .col-md-5.pl.align-self-left {
+  	padding-left: 0px;
+  }
+  .col-md-12.mb {
+  	margin-bottom: -25px;
+  }
+  button.btn.btn-sm.btn-outline-warning.mr-1.mb-1, button.btn.btn-icon.btn-outline-success.mr-1.mb-1 {
+  	margin-right: 4px !important;
+  }
+  .btn.btn-icon.btn-outline-warning.mr-1.mb-1 {
+  	margin-right: 4px !important;
+  }
+  ul.token-input-list-facebook {
+  	padding-top: 5px !important;
+  }
+  .toast .cstm {
+  	max-width: 25.33rem;
+  	overflow: hidden;
+  	font-size: 1rem;
+  	/* background-color: rgba(255, 255, 255, 0.95); */
+  	background-clip: padding-box;
+  	opacity: 0;
+  	/* border-radius: 0.267rem; */
+  }
+  .toast.cstm.fade.show {
+  	background-color: transparent;
+  	backdrop-filter: blur(0px) !important;
+  	border: 0px solid #DFE3E7 !important;
+  	box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0);
+  }
+  li.d-inline-block.mr-2.mb-1.cstmchk {
+  	padding-top: 10px;
+  }
+  .alert.alert-danger, .alert.alert-success {
+  	animation-duration: 1s;
+  	animation-delay: 1s;
+  }
+  label[for='radio_36'] {padding-right: 14%;}
+
+  @media (max-width: 425px) {
+  	.col-md-4.d-md-block.d-none.text-left.align-self-center.p-3 {
+  		left: 10% !important;
+  	}
+  	label[for='radio_36'] {
+  		padding-right: 10%;
+  	}
+  }
+  
+  @media (max-width: 375px) {
+  	.col-md-4.d-md-block.d-none.text-left.align-self-center.p-3 {
+  		left: 10% !important;
+  	}
+  }
+  @media (max-width: 576px) {
+  	.col-md-4.d-md-block.d-none.text-left.align-self-center.p-3 {
+  		left: 55.5% !important;
+  	}
+  }
+  @media (max-width: 768px) {
+  	.dashboard-content-right.pel-kita {
+  		width: 64%;
+  	}
+  	.btn.btn-primary.glow.pel-kita {
+  		margin-top: 90%;
+  	}
+  }
+  @media (max-width: 992px) {
+  	.col-md-4.d-md-block.d-none.text-left.align-self-center.p-3 {
+  		left: 66.4% !important;
+  	}
+  }
+  @media (max-width: 1200px) {
+  	.col-md-4.d-md-block.d-none.text-left.align-self-center.p-3 {
+  		left: 66.4% !important;
+  	}
+  }
+  @media (max-width: 1280px) {
+  	.col-md-12.col-sm-12.antrian-pelanggan {
+  		padding-bottom: 28px !important;
+  	}
+  }
+  @media (max-width: 1479px) {
+  	.col-md-12.col-sm-12.antrian-pelanggan {
+  		padding-bottom: 25px !important;
+  		padding-top: 10px;
+  	}
+  	.card-body.paddjmlpelanggan {
+  		margin-top: 11%;
+  	}
+  }
+
+  .has-warning .col-form-label, .has-warning .custom-control, .has-warning .form-check-label, .has-warning .form-control-feedback, .has-warning .form-control-label {
+  	color: #ffb22b;
+  }
+  .has-warning .form-control {
+  	border-color: #ffb22b;
+  }
+  .has-warning .form-control:focus  {
+  	border-color: #ffb22b;
+  }
+  .has-success .col-form-label, .has-success.custom-control, .has-success .form-check-label, .has-success.form-control-feedback, .has-success.form-control-label {
+  	color: green;
+  }
+  .has-success .form-control {
+  	border-color: green;
+  }
+  .has-success .form-control:focus  {
+  	border-color: green;
+  }
+  .has-warning .form-control-warning {
+  	background-image: url(../../assetsadmin/images/svg/warning.svg);
+  }
+  .has-success .form-control-success {
+  	background-image: url(../../assetsadmin/images/svg/success.svg);
+  }
+  .form-control-danger, .form-control-success, .form-control-warning {
+  	padding-right: 2.25rem;
+  	background-repeat: no-repeat;
+  	background-position: center right .5625rem;
+  	-webkit-background-size: 1.125rem 1.125rem;
+  	background-size: 1.125rem 1.125rem;
+  }
+
+
+
+  .demo-radio-button > label[for='radio_38'], .demo-radio-button > label[for='radio_39'] {
+  	padding-right: 16% !important;
+  }
+  ul.list-unstyled.mb-0 {padding-top: 2%;}
+
+  button.btn.btn-icon.btn-primary.baru {
+  	margin-right: 7px;
+  	margin-bottom: 13px;
+  }
